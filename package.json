@@ -1,0 +1,13 @@
+{
+  "name": "cs-dev-tools",
+  "version": "1.0.0",
+  "description": "ContextSeal development tools — environment validation, config linting, and drift detection for the ContextSeal project.",
+  "main": "server.js",
+  "type": "module",
+  "bin": {
+    "cs-dev-tools": "./server.js"
+  },
+  "keywords": ["contextseal", "mcp", "dev-tools", "linting"],
+  "author": "inovaqo",
+  "license": "MIT"
+}
